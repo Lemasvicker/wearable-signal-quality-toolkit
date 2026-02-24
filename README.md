@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1165516944.svg)](https://doi.org/10.5281/zenodo.18755517)
+
 # Wearable Signal Quality Toolkit
 
 Signal-quality checks and timestamp alignment utilities for wearable time-series data, with synthetic demo data (non-proprietary).  
