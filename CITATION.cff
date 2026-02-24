@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Wearable Signal Quality Toolkit"
+authors:
+  - family-names: "Nlemadim"
+    given-names: "Victory"
+repository-code: "https://github.com/Lemasvicker/wearable-signal-quality-toolkit"
+license: "Apache-2.0"
+abstract: "Signal-quality checks and timestamp alignment utilities for wearable time-series data, with synthetic demo data (non-proprietary)."
+keywords:
+  - "signal processing"
+  - "wearable sensors"
+  - "time series"
+  - "data quality"
+  - "synchronization"
